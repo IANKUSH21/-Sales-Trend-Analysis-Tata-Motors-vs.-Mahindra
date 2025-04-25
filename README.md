@@ -1,6 +1,9 @@
 
 # 🚗 Sales Trend Analysis: Tata Motors vs. Mahindra
 
+![Mahindra vs Tata Motors](https://wp-api.pocketful.in/blog/wp-content/uploads/2024/09/Mahindra-Mahindra-vs-Tata-Motors.jpg)
+
+
 ## 📌 Project Overview
 
 This project presents a comprehensive SQL-based analysis of sales data from Tata Motors and Mahindra over a six-month period. By leveraging structured queries, the project uncovers key insights into sales performance, model comparisons, and market trends, providing valuable information for stakeholders and automotive enthusiasts.
